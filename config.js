@@ -2,8 +2,8 @@ const CONFIG = {
     titleWeb: "Tiêu đề web",
     introTitle: 'Ngọc ơi',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
+    Mà sao bạn cứ đi nhầm đường
+    Lạc vào tim mình lẻ loi
     Đằng sau chữ yêu đây là thương`,
     btnIntro: '^^HiHi^^',
     title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
